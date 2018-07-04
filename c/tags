@@ -1,5 +1,4 @@
 !_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
-main	/home/dmitry/work/countingsort/countingsort.c	/^int main(int argc, char** argv) {$/;"	f	language:C++
-max	/home/dmitry/work/countingsort/countingsort.c	/^int max(int* arr, int len) {$/;"	f	language:C++
-sort	/home/dmitry/work/countingsort/countingsort.c	/^void sort(int** in, int** out, size_t length) {$/;"	f	language:C++
-sort	/home/dmitry/work/countingsort/countingsort.rb	/^def sort(input)$/;"	f	language:Ruby
+main	/home/dmitry/work/countingsort/c/countingsort.c	/^int main(int argc, char** argv) {$/;"	f	language:C++
+max	/home/dmitry/work/countingsort/c/countingsort.c	/^int max(int* arr, int len) {$/;"	f	language:C++
+sort	/home/dmitry/work/countingsort/c/countingsort.c	/^void sort(int** in, int** out, size_t length) {$/;"	f	language:C++
