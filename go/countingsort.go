@@ -18,9 +18,8 @@ func maxInt(a []int) (m int) {
 	return
 }
 
-func sort(input []int) []int {
+func sort(input []int) (output []int) {
 	counts := make([]int, maxInt(input) + 1)
-	var output []int
 	for i := 0; i < len(input); i++ {
 		counts[input[i]]++
 	}
